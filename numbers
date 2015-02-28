@@ -1,0 +1,16 @@
+field {
+    line_width: 10
+    field_length: 6000
+    field_width: 4000
+    boundary_width: 250
+    referee_width: 425
+    goal_width: 700
+    goal_depth: 180
+    goal_wall_width: 20
+    center_circle_radius: 500
+    defense_radius: 500
+    defense_stretch: 350
+    free_kick_from_defense_dist: 700
+    penalty_spot_from_field_line_dist: 450
+    penalty_line_from_spot_dist: 350
+  }
